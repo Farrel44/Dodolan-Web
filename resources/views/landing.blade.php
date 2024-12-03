@@ -34,7 +34,7 @@
         <div class="flex flex-col justify-center w-full text-center md:w-1/2 md:text-left lg:items-start md:items-start">
             <h1 class="pb-1 text-3xl font-extrabold text-black md:text-4xl sm:text-4xl">Berdayakan UMKM Bersama</h1>
             <h1 class="pb-4 text-3xl font-extrabold text-yellow_custom md:text-4xl sm:text-4xl">Dodolan</h1>
-            <p class="font-lexend lg:mr-4 md:mr-2">Dodolan hadir untuk mempermudah UMKM tradisional mengelola bisnis, mempromosikan produk, dan meningkatkan penjualan. Bersama, kita wujudkan ekonomi lokal yang lebih kuat!</p>
+            <p class="font-lexend sm:mr-2 lg:mr-4 md:mr-2">Dodolan hadir untuk mempermudah UMKM tradisional mengelola bisnis, mempromosikan produk, dan meningkatkan penjualan. Bersama, kita wujudkan ekonomi lokal yang lebih kuat!</p>
             <div class="flex items-center justify-center pt-4 space-x-4">
                 <input
                     type="text"
@@ -51,7 +51,5 @@
             <img src="{{ asset('assets/images/iphone.png') }}" alt="Landing Page Illustration" class="h-auto max-w-full">
         </div>
     </section>
-
-
 </body>
 </html>
